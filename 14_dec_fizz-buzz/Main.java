@@ -1,7 +1,6 @@
 // prompt: Write a program that prints the numbers from 1 to 100.
 // But for multiples of 5, print “Fizz” instead of the number, and for multiples of 7, print “Buzz“.
 // For numbers that are multiples of both 5 and 7, print “FizzBuzz.”
-// from: https://howtodoinjava.com/interview-questions/interview-puzzles-coding-exercises/
 
 import java.util.Scanner;
 
